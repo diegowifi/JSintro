@@ -55,7 +55,7 @@ article.intro::before {
   -webkit-filter: blur(0.5px) grayscale(0.3) brightness(0.4);
   -moz-filter: blur(0.5px) grayscale(0.3) brightness(0.4);
   filter: blur(0.5px) grayscale(0.3) brightness(0.4);
-  background-image: url("../img/cool.gif");
+  background-image: url("../img/excited.gif");
 }
 
 article.spoiler::before{
